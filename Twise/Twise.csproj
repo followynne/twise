@@ -4,4 +4,12 @@
     <TargetFrameworks>net5.0;net6.0</TargetFrameworks>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\matte\CodeProjects\Twise\Twise\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\matte\CodeProjects\Twise\Twise\.editorconfig" />
+  </ItemGroup>
+
 </Project>
